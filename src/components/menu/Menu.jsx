@@ -17,7 +17,7 @@ export default function Menu({ menuOpen, setMenuOpen }) {
           <a href="#testimonials">Team</a>
         </li>
         <li onClick={()=>setMenuOpen(false)}>
-          <a href="#contact">Contact</a>
+          <a href="#contact">Hire me</a>
         </li>
       </ul>
     </div>
