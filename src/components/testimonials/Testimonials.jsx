@@ -12,7 +12,7 @@ export default function Testimonials() {
     },
     {
       id: 2,
-      name: "Sandeep Kumar",
+      name: "Sandeep Sharma",
       title: "React Native Developer",
       img:
         "https://media-exp1.licdn.com/dms/image/C4D03AQHcwBmKnVmn2w/profile-displayphoto-shrink_800_800/0/1631517680770?e=1645660800&v=beta&t=NGKVionZyVpXji324gPO-_lxgfVdyp1m-3H2xtxFLzo",
@@ -27,6 +27,7 @@ export default function Testimonials() {
       title: "Frontend Developer",
       
       icon: "assets/linkedin.png",
+      img:"",
       desc:
         "This team is very motivated and dedicated to work on the project. They are very good at what they do and I would recommend them to anyone who is looking for a team to work on a project",
     },
